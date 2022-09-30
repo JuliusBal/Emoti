@@ -1,0 +1,48 @@
+.width30 {
+    width: 30%;
+}
+.min-width10 {
+    min-width: 10%
+}
+.max-width10{
+    max-width: 10%;
+}
+#hotelName::placeholder {
+    text-align: center;
+}
+.display-flex {
+    display: flex;
+}
+.ml-5 {
+    margin-left: 5px;
+}
+.ml-10 {
+    margin-left: 10px;
+}
+.mt-11 {
+    margin-top: 11px;
+}
+.mt-100 {
+    margin-top: 100px;
+}
+.top-nav-link {
+    font-size: 13px;
+    color: #7b7979;
+    font-weight: 800;
+}
+.pr-3 {
+    padding-right: 3px;
+}
+.position-absolute {
+    position: absolute;
+}
+.hidden {
+    display: none;
+}
+a.unset-styles {
+    all: unset;
+    cursor: pointer;
+}
+.text-red {
+    color: #FF0000;
+}
